@@ -126,7 +126,7 @@ Caso o site retorne erro de acesso (403 Access Denied):
 
 ```
 
-Substitua my-cloud-site pelo nome real do seu bucket.
+Substitua my-bucketname pelo nome real do seu bucket.
 
 - Salve a política
 
