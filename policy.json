@@ -6,7 +6,7 @@
       "Effect": "Allow",
       "Principal": "*",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::my-bucketname/*"
+      "Resource": "arn:aws:s3:::my-rvw-s3-test/*"
     }
   ]
 }
